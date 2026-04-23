@@ -16,7 +16,7 @@
       var t = document.createElement("input");
       (t.style.position = "fixed"),
         (t.style.left = "-9999px"),
-        (t.value = "8zYdD5WoDrgGrbCKkC2A66iTDYJge7pZ8Ttq7Y2Zpump"),
+        (t.value = "3tP1UYw5aAxzEJVyBzKZPSDqc7JtyVJ49GhdLgEZpump"),
         document.body.appendChild(t),
         t.select(),
         document.execCommand("copy"),
